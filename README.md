@@ -21,7 +21,7 @@ This repository contains code developed at 42 Porto Piscine, from 19/09/2022 to 
 </br>
 <div align="center">
 
-| Project | Rank | Status | Score | 
+| C Projects | Rank | Status | Score | 
 | :---: | :---: | :---: | :---: |
 | [C Piscine C00](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20C%2000)| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-85%20%2F%20100%20%E2%98%85-9cf" />
 | [C Piscine C01](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20C%2001)| 01 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100%20%E2%98%85-9cf" /> |
@@ -32,4 +32,13 @@ This repository contains code developed at 42 Porto Piscine, from 19/09/2022 to 
 | [C Piscine C06](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20C%2006)| 06 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100%20%E2%98%85-9cf" /> |
 | [C Piscine C07](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20C%2007)| 07 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-60%20%2F%20100%20%E2%98%85-9cf" /> |
 | [C Piscine C08](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20C%2008)| 08 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100%20%E2%98%85-9cf" /> |
+</div>
+
+</br>
+<div align="center">
+
+| Shell | Rank | Status | Score | 
+| :---: | :---: | :---: | :---: |
+| [C Piscine Shell 00](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20Shell%2000)| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-85%20%2F%20100%20%E2%98%85-9cf" />
+| [C Piscine Shell 01](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20Shell%2001)| 01 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100%20%E2%98%85-9cf" /> |
 </div>
