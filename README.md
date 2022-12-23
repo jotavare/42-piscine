@@ -68,10 +68,10 @@ This repository contains code developed at 42 Porto Piscine, from 19/09/2022 to 
 <img src="https://img.shields.io/badge/score-64%20%2F%20100-success" /> <br />
 
 **Exam 01** <br />
-<img src="https://img.shields.io/badge/score-48%20%2F%20100-success" /> <br />
+<img src="https://img.shields.io/badge/score-32%20%2F%20100-success" /> <br />
 
 **Exam 02** <br />
-<img src="https://img.shields.io/badge/score-70%20%2F%20100-success" /> <br />
+<img src="https://img.shields.io/badge/score-42%20%2F%20100-success" /> <br />
 
 **Final Exam** <br />
-<img src="https://img.shields.io/badge/score-54%20%2F%20100-success" /> <br />
+<img src="https://img.shields.io/badge/score-48%20%2F%20100-success" /> <br />
