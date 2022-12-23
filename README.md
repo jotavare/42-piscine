@@ -27,3 +27,4 @@ This repository contains code developed at 42 Porto Piscine, from 19/09/2022 to 
 	
 | :---: | :---: | :---: | :---: |
 | [C Piscine C01](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20C%2001)| 01 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100%20%E2%98%85-9cf" /> |
+</div>
