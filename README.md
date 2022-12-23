@@ -14,8 +14,10 @@ This repository contains code developed at 42 Porto Piscine, from 19/09/2022 to 
 </p>
 
 <p align="center">
-<img src="https://badge42.vercel.app/api/v2/clacbrcpv01070fkyabnoijyu/stats?cursusId=9&coalitionId=piscine" alt="lbordona's 42 stats" />
+<img src="https://badge42.vercel.app/api/v2/clbvkpdqt00110fl38ozdkwj4/stats?cursusId=9&coalitionId=piscine" alt="jotavare's 42 stats" />
 </p>
+
+https://badge42.vercel.app/api/v2/clbvkpdqt00110fl38ozdkwj4/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42
 
 ## :notebook: Subjects
 [**Shell 00**](https://github.com/lbordonal/42-Piscine/blob/main/PDFs/00-%20Shell%2000%20-%20pt.subject.pdf)<br />
