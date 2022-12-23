@@ -49,7 +49,7 @@ This repository contains code developed at 42 Porto Piscine, from 19/09/2022 to 
 | Exam | Rank | Status | Score | 
 | :---: | :---: | :---: | :---: |
 | C Piscine Exam 00| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-9cf" />
-| C Piscine Exam 01| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-32%20%2F%20100%20%E2%98%85-9cf" />
-| C Piscine Exam 02| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-42%20%2F%20100%20%E2%98%85-9cf" />
-| C Piscine Final Exam| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-9cf" />
+| C Piscine Exam 01| 01 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-32%20%2F%20100%20%E2%98%85-9cf" />
+| C Piscine Exam 02| 02 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-42%20%2F%20100%20%E2%98%85-9cf" />
+| C Piscine Final Exam| Final | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-9cf" />
 </div>
