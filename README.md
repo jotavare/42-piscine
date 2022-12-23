@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-	<img src="https://img.shields.io/github/languages/code-size/lbordonal/42-Piscine" />
-	<img src="https://img.shields.io/github/languages/count/lbordonal/42-Piscine" />
-	<img src="https://img.shields.io/github/languages/top/lbordonal/42-Piscine" />
-	<img src="https://img.shields.io/github/last-commit/lbordonal/42-Piscine" />
+	<img src="https://img.shields.io/github/languages/code-size/jotavare/42-piscine" />
+	<img src="https://img.shields.io/github/languages/count/jotavare/42-piscine" />
+	<img src="https://img.shields.io/github/languages/top/jotavare/42-piscine" />
+	<img src="https://img.shields.io/github/last-commit/jotavare/42-piscine" />
 </p>
 
 <p align="center">
