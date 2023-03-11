@@ -1,26 +1,32 @@
-<h1 align="center">
-	42 Piscine
-</h1>
-
 <p align="center">
-	<img src="https://img.shields.io/github/languages/code-size/jotavare/42-piscine" />
-	<img src="https://img.shields.io/github/languages/count/jotavare/42-piscine" />
-	<img src="https://img.shields.io/github/languages/top/jotavare/42-piscine" />
-	<img src="https://img.shields.io/github/last-commit/jotavare/42-piscine" />
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_piscine.png">
 </p>
 
 <p align="center">
-This repository contains code developed at 42 Porto Piscine, from 19/09/2022 to 13/10/2022.
+	<img src="https://img.shields.io/badge/status-ongoing-success?color=%2312bab9&style=flat-square" />
+	<img src="https://img.shields.io/badge/score-42%20%2F%2042-success?color=%2312bab9&style=flat-square" />
+	<img src="https://img.shields.io/github/last-commit/jotavare/42-piscine?color=%2312bab9&style=flat-square" />
 </p>
 
 <p align="center">
-<img src="https://badge42.vercel.app/api/v2/clbvkpdqt00110fl38ozdkwj4/stats?cursusId=9&coalitionId=piscine" alt="jotavare's 42 stats" />
+	<a href="#about">About</a> •
+	<a href="#badge">Badge</a> •
+	<a href="#projects">Projects</a> •
+	<a href="#license">License</a>
 </p>
 
-##
-</br>
-<div align="center">
+## ABOUT
+The 42 Piscine is an intensive one-month program that exposes participants to the school's teaching methods, including peer-to-peer learning, group work, peer-evaluation, and project-based learning. Participants dive headfirst into the work methods of 42 students for 26 days, engaging in intensive learning and dedicating a month to mastering programming skills.
 
+This repository contains code developed at 42 Piscine, from 19/09/2022 to 13/10/2022. </br>
+If you are looking for code related to the 42 Common Core, <a href="https://github.com/jotavare/42-common-core">click here</a>.
+
+## BADGE
+<p align="center">
+  <img src="https://badge42.vercel.app/api/v2/clbvkpdqt00110fl38ozdkwj4/stats?cursusId=9&coalitionId=piscine" alt="jotavare's 42 stats" />
+</p>
+
+## PROJECTS
 | C Project | Rank | Status | Score | 
 | :---: | :---: | :---: | :---: |
 | [C Piscine C00](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20C%2000)| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-85%20%2F%20100-success" />
@@ -32,33 +38,18 @@ This repository contains code developed at 42 Porto Piscine, from 19/09/2022 to 
 | [C Piscine C06](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20C%2006)| 06 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
 | [C Piscine C07](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20C%2007)| 07 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-60%20%2F%20100-success" /> |
 | [C Piscine C08](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20C%2008)| 08 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
-</div>
-
-</br>
-<div align="center">
 
 | Shell | Rank | Status | Score | 
 | :---: | :---: | :---: | :---: |
 | [C Piscine Shell 00](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20Shell%2000)| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" />
 | [C Piscine Shell 01](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20Shell%2001)| 01 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
-</div>
-
-</br>
-<div align="center">
 
 | Rush | Rank | Status | Score | 
 | :---: | :---: | :---: | :---: |
 | [C Piscine Rush 00](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20Rush%2000)| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" />
 | [C Piscine Rush 01](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20Rush%2001)| 01 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" /> |
-</div>
 
-</br>
-<div align="center">
-
-| Exam | Rank | Status | Score | 
-| :---: | :---: | :---: | :---: |
-| C Piscine Exam 00| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" />
-| C Piscine Exam 01| 01 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-32%20%2F%20100%20%E2%98%85-sucess" />
-| C Piscine Exam 02| 02 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-42%20%2F%20100%20%E2%98%85-sucess" />
-| C Piscine Final Exam| Final | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" />
-</div>
+## LICENSE
+<p>
+This work is published under the terms of <a href="https://github.com/jotavare/jotavare/blob/main/LICENSE">42 Unlicense</a>.
+</p>
