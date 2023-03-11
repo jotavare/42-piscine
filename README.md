@@ -27,7 +27,6 @@ If you are looking for code related to the 42 Common Core, <a href="https://gith
 </p>
 
 ## PROJECTS
-</br>
 <div align="center">
 
 | C Project | Rank | Status | Score | 
