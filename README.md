@@ -27,7 +27,6 @@ If you are looking for code related to the 42 Common Core, <a href="https://gith
 </p>
 
 ## PROJECTS
-
 </br>
 <div align="center">
 
@@ -60,6 +59,17 @@ If you are looking for code related to the 42 Common Core, <a href="https://gith
 | :---: | :---: | :---: | :---: |
 | [C Piscine Rush 00](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20Rush%2000)| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" />
 | [C Piscine Rush 01](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20Rush%2001)| 01 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" /> |
+</div>
+
+</br>
+<div align="center">
+
+| Exam | Rank | Status | Score | 
+| :---: | :---: | :---: | :---: |
+| C Piscine Exam 00| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" />
+| C Piscine Exam 01| 01 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-32%20%2F%20100%20%E2%98%85-sucess" />
+| C Piscine Exam 02| 02 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-42%20%2F%20100%20%E2%98%85-sucess" />
+| C Piscine Final Exam| Final | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" />
 </div>
 
 ## LICENSE
