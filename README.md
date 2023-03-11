@@ -16,11 +16,11 @@
 </p>
 
 ## ABOUT
-This repository contains code developed at 42 Piscine, from 19/09/2022 to 13/10/2022.
+This repository contains code developed at **42 Piscine**, from **19/09/2022** to **13/10/2022**.
 
-The 42 Piscine is an intensive one-month program that exposes participants to the school's teaching methods, including peer-to-peer learning, group work, peer-evaluation, and project-based learning. Participants dive headfirst into the work methods of 42 students for 26 days, engaging in intensive learning and dedicating a month to mastering programming skills.
+The **42 Piscine** is an intensive one-month program that exposes participants to the school's teaching methods, including peer-to-peer learning, group work, peer-evaluation, and project-based learning. Participants dive headfirst into the work methods of 42 students for 26 days, engaging in intensive learning and dedicating a month to mastering programming skills.
 
-If you are looking for code related to the 42 Common Core, <a href="https://github.com/jotavare/42-common-core">click here</a>.
+If you are looking for code related to the **42 Common Core**, <a href="https://github.com/jotavare/42-common-core">click here</a>.
 
 ## BADGE
 <p align="center">
@@ -74,5 +74,5 @@ If you are looking for code related to the 42 Common Core, <a href="https://gith
 
 ## LICENSE
 <p>
-This work is published under the terms of <a href="https://github.com/jotavare/jotavare/blob/main/LICENSE">42 Unlicense</a>.
+This work is published under the terms of <a href="https://github.com/jotavare/jotavare/blob/main/LICENSE">**42 Unlicense**</a>.
 </p>
