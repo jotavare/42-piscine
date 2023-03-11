@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_piscine.png">
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_piscine_banner.png">
 </p>
 
 <p align="center">
