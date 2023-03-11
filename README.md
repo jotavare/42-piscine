@@ -74,5 +74,5 @@ If you are looking for code related to the **42 Common Core**, <a href="https://
 
 ## LICENSE
 <p>
-This work is published under the terms of <a href="https://github.com/jotavare/jotavare/blob/main/LICENSE">**42 Unlicense**</a>.
+This work is published under the terms of <a href="https://github.com/jotavare/jotavare/blob/main/LICENSE">42 Unlicense</a>.
 </p>
