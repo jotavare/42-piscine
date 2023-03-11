@@ -27,6 +27,7 @@ If you are looking for code related to the 42 Common Core, <a href="https://gith
 </p>
 
 ## PROJECTS
+<div align="center">
 | C Project | Rank | Status | Score | 
 | :---: | :---: | :---: | :---: |
 | [C Piscine C00](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20C%2000)| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-85%20%2F%20100-success" />
