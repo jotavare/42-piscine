@@ -16,16 +16,11 @@
 </p>
 
 ## ABOUT
-This repository contains code developed at **42 Piscine**, from **19/09/2022** to **13/10/2022**.
+This repository contains code developed at **42 Piscine**, from **19/09/2022** to **14/10/2022**.
 
 The **42 Piscine** is an intensive one-month program that exposes participants to the school's teaching methods, including peer-to-peer learning, group work, peer-evaluation, and project-based learning. Participants dive headfirst into the work methods of 42 students for 26 days, engaging in intensive learning and dedicating a month to mastering programming skills.
 
 If you are looking for code related to the **42 Common Core**, <a href="https://github.com/jotavare/42-common-core">click here</a>.
-
-## BADGE
-<p align="center">
-  <img src="https://badge42.vercel.app/api/v2/clbvkpdqt00110fl38ozdkwj4/stats?cursusId=9&coalitionId=piscine" alt="jotavare's 42 stats" />
-</p>
 
 ## PROJECTS
 <div align="center">
