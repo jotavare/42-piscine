@@ -56,6 +56,7 @@ If you are looking for code related to the **42 Common Core**, <a href="https://
 | [C Piscine Rush 01](https://github.com/jotavare/42-piscine/tree/main/C%20Piscine%20Rush%2001)| 01 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" /> |
 </div>
 
+## EXAMS
 </br>
 <div align="center">
 
