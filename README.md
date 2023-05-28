@@ -25,14 +25,14 @@ The **42 Piscine** is an intensive one-month program that exposes participants t
 If you are looking for code related to the **42 Common Core**, <a href="https://github.com/jotavare/42-common-core">click here</a>.
 
 ## PROJECTS
-> All the projects i made during piscine, based on Shell.
+> All the projects (and group projects) i made during piscine, based on C programming language and Shell.
 
+<div align="center">
+	
 | Shell | Rank | Status | Score | 
 | :---: | :---: | :---: | :---: |
 | [C Piscine Shell 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2000)| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" />
 | [C Piscine Shell 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2001)| 01 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
-
-> All the projects i made during piscine, based on C language.
 
 | C Project | Rank | Status | Score | 
 | :---: | :---: | :---: | :---: |
@@ -46,13 +46,13 @@ If you are looking for code related to the **42 Common Core**, <a href="https://
 | [C Piscine C07](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2007)| 07 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-60%20%2F%20100-success" /> |
 | [C Piscine C08](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2008)| 08 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
 
-> All the group projects i made during piscine, based on C language.
-
 | Rush | Rank | Status | Score | 
 | :---: | :---: | :---: | :---: |
 | [C Piscine Rush 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2000)| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" />
 | [C Piscine Rush 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2001)| 01 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" /> |
 
+</div>
+	
 ## EXAMS
 > In this 26 days i had one exam every friday, they were on pc and we didint have internet, the first three exams are 4h total each and the final one is 8h.
 
