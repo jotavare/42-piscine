@@ -25,7 +25,6 @@ The **42 Piscine** is an intensive one-month program that exposes participants t
 If you are looking for code related to the **42 Common Core**, <a href="https://github.com/jotavare/42-common-core">click here</a>.
 
 ## PROJECTS
-> All the projects (and group projects) i made during piscine, based on C programming language and Shell.
 
 <div align="center">
 	
@@ -54,7 +53,6 @@ If you are looking for code related to the **42 Common Core**, <a href="https://
 </div>
 	
 ## EXAMS
-> Theres 4 exams total (without internet), the first three exams are 4h each and the final one is 8h.
 
 </br>
 <div align="center">
