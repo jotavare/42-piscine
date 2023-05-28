@@ -54,7 +54,7 @@ If you are looking for code related to the **42 Common Core**, <a href="https://
 </div>
 	
 ## EXAMS
-> Theres 4 exams total (on pc and without internet, the first three exams are 4h total each and the final one is 8h.
+> Theres 4 exams total (on a 42 pc and without internet), the first three exams are 4h total each and the final one is 8h.
 
 </br>
 <div align="center">
