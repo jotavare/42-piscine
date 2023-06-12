@@ -14,6 +14,7 @@
 	<a href="#about">About</a> •
 	<a href="#projects">Projects</a> •
 	<a href="#exams">Exams</a> •
+	<a href="#norminette">Norminette</a> •
 	<a href="#license">License</a>
 </p>
 
@@ -64,6 +65,23 @@ If you are looking for code related to the **42 Common Core**, <a href="https://
 | C Piscine Exam 02| 02 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-42%20%2F%20100%20%E2%98%85-sucess" />
 | C Piscine Final Exam| Final | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" />
 </div>
+
+## NORMINETTE
+At 42 School, it is expected that almost every project is written in accordance with the Norm, which is the coding standard of the school.
+
+```
+- No for, do...while, switch, case, goto, ternary operators and variable lenght arrays are allowed
+- Each function must be maximum 25 lines, not counting the function's own curly brackets
+- Each line must be at most 80 columns wide, comments included
+- A function can take 4 named parameters maximum
+- No assigns and declarations in the same line (unless static)
+- You can't declare more than 5 variables per function
+- ...
+```
+
+* [42 Norms](https://github.com/jotavare/jotavare/blob/main/42/pdf/en_norm.pdf) - Information about 42 code norms. `PDF`
+* [Norminette](https://github.com/42School/norminette) - Tool by 42, to respect the code norm. `GitHub`
+* [42 Header](https://github.com/42Paris/42header) - 42 header for vim. `GitHub`
 
 ## LICENSE
 <p>
