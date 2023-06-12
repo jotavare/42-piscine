@@ -21,7 +21,7 @@
 ## ABOUT
 This repository contains code developed at **42 Piscine**, from **19/09/2022** to **14/10/2022**.
 
-The **42 Piscine** is an intensive one-month program that exposes participants to the school's teaching methods, including peer-to-peer learning, group work, peer-evaluation, and project-based learning. Participants dive headfirst into the work methods of 42 students for 26 days, engaging in intensive learning and dedicating a month to mastering programming skills.
+The **42 Piscine** is an intensive one-month program that exposes participants to the school's teaching methods, including peer-to-peer learning, group work, peer evaluation, and project-based learning. Participants dive headfirst into the work methods of 42 students for 26 days, engaging in intensive learning and dedicating a month to mastering programming skills.
 
 If you are looking for code related to the **42 Common Core**, <a href="https://github.com/jotavare/42-common-core">click here</a>.
 
@@ -70,8 +70,8 @@ If you are looking for code related to the **42 Common Core**, <a href="https://
 At 42 School, it is expected that almost every project is written in accordance with the Norm, which is the coding standard of the school.
 
 ```
-- No for, do...while, switch, case, goto, ternary operators and variable lenght arrays are allowed
-- Each function must be maximum 25 lines, not counting the function's own curly brackets
+- No for, do...while, switch, case, goto, ternary operators and variable-length arrays are allowed
+- Each function must be a maximum of 25 lines, not counting the function's curly brackets
 - Each line must be at most 80 columns wide, comments included
 - A function can take 4 named parameters maximum
 - No assigns and declarations in the same line (unless static)
@@ -81,7 +81,7 @@ At 42 School, it is expected that almost every project is written in accordance 
 
 * [42 Norms](https://github.com/jotavare/jotavare/blob/main/42/pdf/en_norm.pdf) - Information about 42 code norms. `PDF`
 * [Norminette](https://github.com/42School/norminette) - Tool by 42, to respect the code norm. `GitHub`
-* [42 Header](https://github.com/42Paris/42header) - 42 header for vim. `GitHub`
+* [42 Header](https://github.com/42Paris/42header) - 42 header for Vim. `GitHub`
 
 ## LICENSE
 <p>
