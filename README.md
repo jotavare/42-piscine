@@ -30,12 +30,12 @@ The **42 Piscine** is an intensive one-month program that exposes participants t
 <div align="center">
 	
 | Shell Projects | Status | Grade | 
-| :---: | :---: | :---: |
+| :--- | :--- | :--- |
 | [Piscine Shell 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2000) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
 | [Piscine Shell 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2001) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
 
 | C Projects | Status | Grade | 
-| :---: | :---: | :---: |
+| :--- | :--- | :--- |
 | [Piscine C 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2000) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-85%20%2F%20100-success" /> |
 | [Piscine C 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2001) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
 | [Piscine C 02](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2002) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-75%20%2F%20100-success" /> |
@@ -47,7 +47,7 @@ The **42 Piscine** is an intensive one-month program that exposes participants t
 | [Piscine C 08](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2008) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
 
 | Rush Projects | Status | Grade | 
-| :---: | :---: | :---: |
+| :--- | :--- | :--- |
 | [Piscine Rush 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2000) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" /> |
 | [Piscine Rush 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2001) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" /> |
 
@@ -56,12 +56,12 @@ The **42 Piscine** is an intensive one-month program that exposes participants t
 ## EXAMS
 <div align="center">
 
-| Exam Rank | Language | Status | Grade | 
-| :---: | :---: | :---: | :---: |
-| Piscine Exam 00 | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" />
-| Piscine Exam 01 | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-32%20%2F%20100%20%E2%98%85-sucess" />
-| Piscine Exam 02 | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-42%20%2F%20100%20%E2%98%85-sucess" />
-| Piscine Final Exam | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" />
+| Exam Rank | Language | Status | Grade | Time |
+| :--- | :--- | :--- | :--- | :--- |
+| Piscine Exam 00 | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" /> | `4 hours` |
+| Piscine Exam 01 | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-32%20%2F%20100%20%E2%98%85-sucess" /> | `4 hours` |
+| Piscine Exam 02 | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-42%20%2F%20100%20%E2%98%85-sucess" /> | `4 hours` |
+| Piscine Final Exam | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" /> | `8 hours` |
 
 </div>
 
