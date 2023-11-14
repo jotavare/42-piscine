@@ -27,44 +27,41 @@ The **42 Piscine** is an intensive one-month program that exposes participants t
 > If you are looking for code related to the **42 Common Core**, <a href="https://github.com/jotavare/42-common-core">click here</a>.
 
 ## PROJECTS
-
 <div align="center">
 	
-| Shell | Status | Grade | 
+| Shell Projects | Status | Grade | 
 | :---: | :---: | :---: |
-| [C Piscine Shell 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2000) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
-| [C Piscine Shell 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2001) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
+| [Piscine Shell 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2000) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
+| [Piscine Shell 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2001) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
 
-| C Project | Status | Grade | 
+| C Projects | Status | Grade | 
 | :---: | :---: | :---: |
-| [C Piscine C00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2000) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-85%20%2F%20100-success" /> |
-| [C Piscine C01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2001) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
-| [C Piscine C02](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2002) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-75%20%2F%20100-success" /> |
-| [C Piscine C03](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2003) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
-| [C Piscine C04](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2004) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-70%20%2F%20100-success" /> |
-| [C Piscine C05](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2005) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-80%20%2F%20100-success" /> |
-| [C Piscine C06](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2006) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
-| [C Piscine C07](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2007) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-60%20%2F%20100-success" /> |
-| [C Piscine C08](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2008) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
+| [Piscine C 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2000) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-85%20%2F%20100-success" /> |
+| [Piscine C 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2001) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
+| [Piscine C 02](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2002) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-75%20%2F%20100-success" /> |
+| [Piscine C 03](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2003) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
+| [Piscine C 04](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2004) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-70%20%2F%20100-success" /> |
+| [Piscine C 05](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2005) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-80%20%2F%20100-success" /> |
+| [Piscine C 06](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2006) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
+| [Piscine C 07](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2007) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-60%20%2F%20100-success" /> |
+| [Piscine C 08](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2008) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
 
-| Rush | Status | Grade | 
+| Rush Projects | Status | Grade | 
 | :---: | :---: | :---: |
-| [C Piscine Rush 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2000) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" /> |
-| [C Piscine Rush 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2001) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" /> |
+| [Piscine Rush 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2000) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" /> |
+| [Piscine Rush 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2001) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" /> |
 
 </div>
 	
 ## EXAMS
-
-</br>
 <div align="center">
 
-| Exam | Status | Grade | 
-| :---: | :---: | :---: |
-| C Piscine Exam 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" />
-| C Piscine Exam 01 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-32%20%2F%20100%20%E2%98%85-sucess" />
-| C Piscine Exam 02 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-42%20%2F%20100%20%E2%98%85-sucess" />
-| C Piscine Final Exam | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" />
+| Exam Rank | Language | Status | Grade | 
+| :---: | :---: | :---: | :---: |
+| Piscine Exam 00 | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" />
+| Piscine Exam 01 | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-32%20%2F%20100%20%E2%98%85-sucess" />
+| Piscine Exam 02 | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-42%20%2F%20100%20%E2%98%85-sucess" />
+| Piscine Final Exam | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" />
 
 </div>
 
