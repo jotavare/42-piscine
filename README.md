@@ -28,12 +28,12 @@ This repository contains code developed at **42 Piscine**, from **19/09/2022** t
 ## PROJECTS
 <div align="center">
 	
-| Shell Projects | Status | Grade | 
+| Shell Project | Status | Grade | 
 | :--- | :--- | :--- |
 | [Piscine Shell 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2000) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
 | [Piscine Shell 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2001) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
 
-| C Projects | Status | Grade | 
+| C Project | Status | Grade | 
 | :--- | :--- | :--- |
 | [Piscine C 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2000) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-85%20%2F%20100-success" /> |
 | [Piscine C 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2001) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
@@ -45,7 +45,7 @@ This repository contains code developed at **42 Piscine**, from **19/09/2022** t
 | [Piscine C 07](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2007) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-60%20%2F%20100-success" /> |
 | [Piscine C 08](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20C%2008) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
 
-| Rush Projects | Status | Grade | 
+| Rush Project | Status | Grade | 
 | :--- | :--- | :--- |
 | [Piscine Rush 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2000) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" /> |
 | [Piscine Rush 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2001) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red" /> |
