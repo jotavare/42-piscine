@@ -28,9 +28,9 @@ This repository contains code developed at **42 Piscine**, from **19/09/2022** t
 ## PROJECTS
 <div align="center">
 	
-| Shell Project | Status | Grade | 
+| Shell Project | Language | Status | Grade | 
 | :--- | :--- | :--- |
-| [Piscine Shell 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2000) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
+| [Piscine Shell 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2000) | <img src="https://img.shields.io/github/languages/top/jotavare/libft"/> | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
 | [Piscine Shell 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2001) | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
 
 | C Project | Status | Grade | 
@@ -55,12 +55,12 @@ This repository contains code developed at **42 Piscine**, from **19/09/2022** t
 ## EXAMS
 <div align="center">
 
-| Exam Rank | Language | Status | Grade | Time |
+| Exam Rank | Language | Finish Date | Grade | Time |
 | :--- | :--- | :--- | :--- | :--- |
-| Piscine Exam 00 | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" /> | `4 hours` |
-| Piscine Exam 01 | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-32%20%2F%20100%20%E2%98%85-sucess" /> | `4 hours` |
-| Piscine Exam 02 | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-42%20%2F%20100%20%E2%98%85-sucess" /> | `4 hours` |
-| Piscine Final Exam | `C` | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-48%20%2F%20100%20%E2%98%85-sucess" /> | `8 hours` |
+| Exam 00 | `C` | 30-09-2022 | <img src="https://img.shields.io/badge/48%20%2F%20100%20%E2%98%85-sucess" /> | `4 hours` |
+| Exam 01 | `C` | 07-10-2022 | <img src="https://img.shields.io/badge/32%20%2F%20100%20%E2%98%85-sucess" /> | `4 hours` |
+| Exam 02 | `C` | 14-10-2022 | <img src="https://img.shields.io/badge/42%20%2F%20100%20%E2%98%85-sucess" /> | `4 hours` |
+| Final Exam | `C` | 21-10-2022 | <img src="https://img.shields.io/badge/48%20%2F%20100%20%E2%98%85-sucess" /> | `8 hours` |
 
 </div>
 
