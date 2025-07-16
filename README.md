@@ -48,8 +48,8 @@ This repository contains code developed at **42 Piscine**, from **19/09/2022** t
 
 | Rush Project                                                                                        | Grade                                                              | Evaluation Information  |
 | :-------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------- | :---------------------- |
-| [Piscine Rush 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2000) | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red"/> | `1 lifeguard` `30 mins` |
-| [Piscine Rush 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2001) | <img src="https://img.shields.io/badge/score-00%20%2F%20100-red"/> | `1 lifeguard` `30 mins` |
+| [Piscine Rush 00](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2000) | <img src="https://img.shields.io/badge/0%20%2F%20100-red"/> | `1 lifeguard` `30 mins` |
+| [Piscine Rush 01](https://github.com/jotavare/42-piscine/tree/main/piscine/C%20Piscine%20Rush%2001) | <img src="https://img.shields.io/badge/0%20%2F%20100-red"/> | `1 lifeguard` `30 mins` |
 
 </div>
 	
