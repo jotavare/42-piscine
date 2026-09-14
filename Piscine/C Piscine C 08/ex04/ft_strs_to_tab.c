@@ -32,12 +32,15 @@ char *ft_strdup(char *src)
 	while (src[i])
 		i++;
 	dest = (char *)malloc(i * sizeof(char) + 1);
+	if (!dest)
+		return (0);
 	i = 0;
 	while (src[i] != '\0')
 	{
 		dest[i] = src[i];
 		i++;
 	}
+	dest[i] = '\0';
 	return (dest);
 }
 
@@ -75,6 +78,7 @@ int main(int argc, char **argv)
 		printf("size: %i\n", tab[i].size);
 		printf("str: %s\n", tab[i].str);
 		printf("copy: %s\n\n", tab[i].copy);
+		free(tab[i].copy);
 		i++;
 	}
 	free(tab);
