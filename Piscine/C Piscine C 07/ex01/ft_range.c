@@ -25,7 +25,7 @@ int *ft_range(int min, int max)
 	matrix = malloc(sizeof(int) * size);
 	if (!matrix)
 		return (NULL);
-	while (i <= size)
+	while (i < size)
 	{
 		matrix[i] = min;
 		i++;
