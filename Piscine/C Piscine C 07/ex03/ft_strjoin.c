@@ -48,11 +48,19 @@ char *ft_strjoin(int size, char **strs, char *sep)
 	int j;
 	int c;
 
-	s1 = malloc(sizeof(char) * (ft_strlen_total(strs, sep, size) + 1));
 	i = 0;
 	c = 0;
 	if (size == 0)
-		return (malloc(sizeof(strs)));
+	{
+		s1 = malloc(sizeof(char));
+		if (!s1)
+			return (NULL);
+		s1[0] = '\0';
+		return (s1);
+	}
+	s1 = malloc(sizeof(char) * (ft_strlen_total(strs, sep, size) + 1));
+	if (!s1)
+		return (NULL);
 	while (i < size)
 	{
 		j = 0;

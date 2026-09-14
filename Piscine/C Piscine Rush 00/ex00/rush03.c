@@ -31,6 +31,7 @@ void middle_line(int x, int y, char edge)
 {
 	int space;
 
+	space = 2;
 	while (y-- > 2)
 	{
 		if (x > 1)
