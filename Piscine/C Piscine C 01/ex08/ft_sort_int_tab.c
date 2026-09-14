@@ -16,7 +16,7 @@ void ft_sort_int_tab(int *tab, int size)
 	int count;
 
 	count = 0;
-	while (count < size)
+	while (count < size - 1)
 	{
 		if (tab[count] > tab[count + 1])
 		{
