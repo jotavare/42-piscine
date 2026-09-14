@@ -30,7 +30,7 @@ int main(int argc, char **argv)
 {
 	int i;
 
-	i = argc;
+	i = argc - 1;
 	while (i >= 1)
 	{
 		ft_putstr(argv[i]);
