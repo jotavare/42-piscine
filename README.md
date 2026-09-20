@@ -4,8 +4,7 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
-	<img src="https://img.shields.io/github/last-commit/jotavare/42-piscine?color=%2312bab9&style=flat-square"/>
-	<a href='https://www.linkedin.com/in/jotavare' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-blue?style=flat-square'/></a>
+	<a href='https://www.linkedin.com/in/jotavare' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4K&logoColor=white'/></a>
 	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
@@ -13,9 +12,7 @@
 	<a href="#about">About</a> •
 	<a href="#projects">Projects</a> •
 	<a href="#exams">Exams</a> •
-	<a href="#norminette">Norminette</a> •
-	<a href="#contributing">Contributing</a> •
-	<a href="#license">License</a>
+	<a href="#norminette">Norminette</a>
 </p>
 
 ## ABOUT
@@ -28,7 +25,7 @@ This repository contains code developed at **42 Piscine**, from **19/09/2022** t
 
 ## PROJECTS
 <div align="center">
-	
+
 | Shell Project                                                                                         | Grade                                                             | Evaluation Information           |
 | :---------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :------------------------------- |
 | [Piscine Shell 00](https://github.com/jotavare/42-piscine/tree/main/Piscine/C%20Piscine%20Shell%2000) | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | `2 peers` `15 mins` `moulinette` |
@@ -52,7 +49,7 @@ This repository contains code developed at **42 Piscine**, from **19/09/2022** t
 | Piscine Rush 01 | <img src="https://img.shields.io/badge/0%20%2F%20100-red"/> | `1 lifeguard` `30 mins` |
 
 </div>
-	
+
 ## EXAMS
 <div align="center">
 
@@ -81,12 +78,3 @@ At 42 School, it is expected that almost every project is written following the 
 * [42 Norms](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf) - Information about 42 code norms. `PDF`
 * [Norminette](https://github.com/42School/norminette) - Tool to respect the code norm, made by 42. `GitHub`
 * [42 Header](https://github.com/42Paris/42header) - 42 header for Vim. `GitHub`
-
-## CONTRIBUTING
-
-This repository documents work already submitted and graded, so it is not open
-to changes. Feel free to fork it if any of it is useful to you.
-
-## LICENSE
-
-This project is available under the MIT License. For further details, please refer to the [LICENSE](https://github.com/jotavare/42-piscine/blob/main/LICENSE) file.
